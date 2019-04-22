@@ -11,6 +11,9 @@
 ## Логи семинаров
 
 ### Семинар 3
+* [Презентация с эвристиками](https://github.com/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_3/nn_slides_2.pdf)
+* [Тетрадка с семинаром и домашкой](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_3/2.%20tensorflow_task%20.ipynb)
+
 
 
 ### Семинар 2
