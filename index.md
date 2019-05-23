@@ -11,7 +11,13 @@
 ## Логи семинаров
 
 
-### Семинар 8 
+### Семинар 8
+
+* [Презентация про тексты и эмбединги](https://github.com/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/nn_slides_4.pdf)
+* [Блокнот с w2v по википедии](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/8.1%20wikipedia_w2v.ipynb)
+* [Блокнот с парсером Twitter](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/8.2%20Twitter%20parser.ipynb)
+* [Блокнот с сентимент-анализом Twitter](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/8.3%20LSTM_sentiment.ipynb)
+
 
 ### Семинар 7
 
