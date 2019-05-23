@@ -13,10 +13,16 @@
 
 ### Семинар 8
 
+* [Дамп википедии.](https://yadi.sk/d/Ddcl3nAiDO2CKQ)
+* [w2v, которую мы предобучили на википедии](https://yadi.sk/d/XHQLpVZSc88aUw).
+
 * [Презентация про тексты и эмбединги](https://github.com/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/nn_slides_4.pdf)
 * [Блокнот с w2v по википедии](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/8.1%20wikipedia_w2v.ipynb)
 * [Блокнот с парсером Twitter](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/8.2%20Twitter%20parser.ipynb)
 * [Блокнот с сентимент-анализом Twitter](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/8.3%20LSTM_sentiment.ipynb)
+
+* [Трансфер-лернинг эмбедингов](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/8.5%20ebeddings_transfer%20learning.ipynb)
+* [Задание на эмбединги](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/task.ipynb)  и [его решение](https://nbviewer.jupyter.org/github/FUlyankin/neural_nets_hse_dpo/blob/master/sems_2019_spring/sem_8/task_solve.ipynb)
 
 
 ### Семинар 7
